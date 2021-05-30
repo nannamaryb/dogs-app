@@ -14,7 +14,8 @@
           background-attachment: fixed;
           background-size: cover;
         }
-    </style>
+    </style> 
+    
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
